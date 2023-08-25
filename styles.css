@@ -72,6 +72,11 @@ main {
     margin: 20px 0;
 }
 
+.done {
+    text-decoration: line-through;
+    color: green;
+}
+
 
 @media screen and (max-width: 768px) {
     nav ul {
