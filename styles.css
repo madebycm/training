@@ -96,6 +96,15 @@ main {
     color: #4caf50;
 }
 
+.setCounter {
+    font-size: 1.33em;
+}
+
+em {
+    opacity: 0.7;
+    font-size:0.9em;
+}
+
 @media screen and (max-width: 768px) {
     nav ul {
         flex-direction: row;
